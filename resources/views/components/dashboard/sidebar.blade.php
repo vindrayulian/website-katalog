@@ -38,7 +38,7 @@
 
     <div class="menu-section mt-4">
         <small class="text-muted text-uppercase">Akun</small>
-        <a href="#" class="menu-link">
+        <a href="{{ route('akun') }}" class="menu-link">
             <i class="fas fa-user-circle me-2"></i> Data Akun
         </a>
     </div>
